@@ -5,6 +5,7 @@ description: 'This resource contains information regarding differential analysis
   and review.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/e96bfd70fcffcf193aaa6b7e43b8da4f_MIT18_156S16_reviewprobs.pdf
 file_type: application/pdf
+parent_uid: 20d601e6-67e3-4547-fd29-461fd58f58d1
 resourcetype: Document
 title: 'Differential Analysis II: Partial Differential Equations and Fourier Analysis,
   Optional Problems for Study and Review'
